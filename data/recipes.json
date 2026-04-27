@@ -1,0 +1,7 @@
+[
+  {"id":"oat_banana_bowl","name":"Oat & Banana Bowl","tags":["breakfast","vegetarian"],"ingredients":["oats","banana","greek_yogurt"],"steps":["Cook oats and top with sliced banana + yogurt.","Portion into breakfast containers."]},
+  {"id":"bean_rice_bowl","name":"Bean & Rice Bowl","tags":["lunch","vegetarian"],"ingredients":["black_beans","brown_rice","spinach","olive_oil"],"steps":["Simmer beans and rice, fold in spinach.","Drizzle olive oil after plating."]},
+  {"id":"chicken_broccoli_rice","name":"Chicken Broccoli Rice Prep","tags":["dinner"],"ingredients":["chicken_breast","broccoli","brown_rice","olive_oil"],"steps":["Pan-sear chicken while rice cooks.","Steam broccoli and combine with rice."]},
+  {"id":"tofu_lentil_bowl","name":"Tofu Lentil Power Bowl","tags":["dinner","vegetarian"],"ingredients":["tofu","lentils","spinach","broccoli"],"steps":["Roast tofu cubes and cook lentils.","Combine with greens and broccoli."]},
+  {"id":"salmon_rice_plate","name":"Salmon Rice Plate","tags":["dinner"],"ingredients":["salmon","brown_rice","broccoli"],"steps":["Bake salmon and steam broccoli.","Serve with rice portions."]}
+]
