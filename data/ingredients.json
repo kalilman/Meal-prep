@@ -1,0 +1,15 @@
+[
+  {"id":"oats","name":"Rolled Oats","category":"grain","vegetarian":true,"allergens":["gluten"],"unit":"serving","cost_per_serving":0.45,"max_servings":4,"nutrients":{"protein_g":5,"fiber_g":4,"calories":150,"iron_mg":1.5,"vitamin_c_mg":0}},
+  {"id":"eggs","name":"Eggs","category":"protein","vegetarian":true,"allergens":["egg"],"unit":"egg pair","cost_per_serving":0.70,"max_servings":4,"nutrients":{"protein_g":12,"fiber_g":0,"calories":140,"iron_mg":1.6,"vitamin_c_mg":0}},
+  {"id":"black_beans","name":"Black Beans","category":"legume","vegetarian":true,"allergens":[],"unit":"cup","cost_per_serving":0.60,"max_servings":4,"nutrients":{"protein_g":8,"fiber_g":7,"calories":120,"iron_mg":2.1,"vitamin_c_mg":0}},
+  {"id":"brown_rice","name":"Brown Rice","category":"grain","vegetarian":true,"allergens":[],"unit":"cup","cost_per_serving":0.40,"max_servings":4,"nutrients":{"protein_g":4,"fiber_g":2,"calories":165,"iron_mg":0.4,"vitamin_c_mg":0}},
+  {"id":"chicken_breast","name":"Chicken Breast","category":"protein","vegetarian":false,"allergens":[],"unit":"portion","cost_per_serving":1.60,"max_servings":4,"nutrients":{"protein_g":26,"fiber_g":0,"calories":140,"iron_mg":0.7,"vitamin_c_mg":0}},
+  {"id":"tofu","name":"Firm Tofu","category":"protein","vegetarian":true,"allergens":["soy"],"unit":"portion","cost_per_serving":1.10,"max_servings":4,"nutrients":{"protein_g":14,"fiber_g":1.2,"calories":120,"iron_mg":2.4,"vitamin_c_mg":0}},
+  {"id":"lentils","name":"Lentils","category":"legume","vegetarian":true,"allergens":[],"unit":"cup","cost_per_serving":0.65,"max_servings":4,"nutrients":{"protein_g":18,"fiber_g":15,"calories":230,"iron_mg":6.6,"vitamin_c_mg":3}},
+  {"id":"salmon","name":"Salmon","category":"protein","vegetarian":false,"allergens":["fish"],"unit":"portion","cost_per_serving":2.40,"max_servings":3,"nutrients":{"protein_g":22,"fiber_g":0,"calories":210,"iron_mg":0.5,"vitamin_c_mg":0}},
+  {"id":"spinach","name":"Spinach","category":"vegetable","vegetarian":true,"allergens":[],"unit":"cup","cost_per_serving":0.80,"max_servings":4,"nutrients":{"protein_g":3,"fiber_g":2,"calories":20,"iron_mg":2.7,"vitamin_c_mg":28}},
+  {"id":"broccoli","name":"Broccoli","category":"vegetable","vegetarian":true,"allergens":[],"unit":"cup","cost_per_serving":0.75,"max_servings":4,"nutrients":{"protein_g":3,"fiber_g":2.5,"calories":35,"iron_mg":0.7,"vitamin_c_mg":50}},
+  {"id":"greek_yogurt","name":"Greek Yogurt","category":"dairy","vegetarian":true,"allergens":["milk"],"unit":"cup","cost_per_serving":0.95,"max_servings":3,"nutrients":{"protein_g":15,"fiber_g":0,"calories":130,"iron_mg":0.1,"vitamin_c_mg":0}},
+  {"id":"banana","name":"Banana","category":"fruit","vegetarian":true,"allergens":[],"unit":"banana","cost_per_serving":0.35,"max_servings":4,"nutrients":{"protein_g":1.3,"fiber_g":3,"calories":105,"iron_mg":0.3,"vitamin_c_mg":10}},
+  {"id":"olive_oil","name":"Olive Oil","category":"fat","vegetarian":true,"allergens":[],"unit":"tbsp","cost_per_serving":0.30,"max_servings":3,"nutrients":{"protein_g":0,"fiber_g":0,"calories":120,"iron_mg":0,"vitamin_c_mg":0}}
+]
